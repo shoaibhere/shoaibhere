@@ -36,12 +36,12 @@ Here are a few of my favorite projects:
 - Integrated a **file management system** for secure property document uploads.
 - Admin Panel for tracking receipts, generating **QR codes** for customers to scan and track their file progress.
 
-### [Unilever Website Remake](https://https://unilever-production.up.railway.app/)
+### [Unilever Website Remake](https://unilever-production.up.railway.app/)
 **Website Development**  
 - Remade the **Unilever website** with added functionality, including **product displays**, **admin panel**, **add-to-cart** and **order processing** features.
 - Technologies: Bootstrap, EJS, Express.js, Node.js, MongoDB.
 
-### Rent a Car Management System  
+### [Rent a Car Management System](https://github.com/rent-a-car-management-system)
 **Java Application**  
 - Designed and developed a **Java-based desktop application** to manage car rentals, including vehicle availability, admin management, and client management.
 - Technologies: Java, JavaFX for UI.
@@ -64,7 +64,7 @@ Here are a few of my favorite projects:
 
 ## 🤝 Let's Connect
 
-- 🌐 [Portfolio](https://shoaibakhterportfolio.netlify.app/)
+- 🌐 [Portfolio](https://shoaibakhter.codes/)
 - 📬 Email me at: shoaibakhtar321@icloud.com
 - 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-shoaib-akhter-79b976301)
 
