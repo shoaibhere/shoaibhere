@@ -41,7 +41,7 @@ Here are a few of my favorite projects:
 - Remade the **Unilever website** with added functionality, including **product displays**, **admin panel**, **add-to-cart** and **order processing** features.
 - Technologies: Bootstrap, EJS, Express.js, Node.js, MongoDB.
 
-### [Rent a Car Management System](https://github.com/rent-a-car-management-system)
+### [Rent a Car Management System](https://github.com/shoaibhere/Rent-a-car-management-system)
 **Java Application**  
 - Designed and developed a **Java-based desktop application** to manage car rentals, including vehicle availability, admin management, and client management.
 - Technologies: Java, JavaFX for UI.
